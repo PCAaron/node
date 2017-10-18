@@ -11,7 +11,6 @@
 
 ```
 #进入项目目录
-cd node-server-demo
     
 安装依赖包
 cnpm install --save
