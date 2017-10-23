@@ -1,0 +1,17 @@
+{
+  "name": "server-demo",
+  "version": "1.0.0",
+  "description": "install formidable package.",
+  "main": "index.js",
+  "dependencies": {
+    "_formidable@1.1.1@formidable": "^1.1.1",
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "aaron",
+  "license": "ISC"
+}
